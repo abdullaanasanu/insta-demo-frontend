@@ -5,7 +5,7 @@ import Home from "./components/pages/Home";
 import Login from "./components/pages/Login";
 import Profile from "./components/pages/Profile";
 import SignUp from "./components/pages/SignUp";
-import { isLoggedIn } from "./utils/Auth";
+// import { isLoggedIn } from "./utils/Auth";
 
 function App() {
 
